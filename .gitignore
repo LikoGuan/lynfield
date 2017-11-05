@@ -111,3 +111,5 @@ target/*
 *.pdb
 
 .DS_Store
+
+log.txt*
